@@ -24,10 +24,10 @@ Grazie per aver scaricato la traduzione italiana di **Drehmal: Apotheosis**, map
 
 ## Installazione
 
-Prima di installare la traduzione, assicurati di avere già installato e testato **Drehmal: Apotheosis** seguendo le istruzioni ufficiali. Trovi l'installer su `[https://github.com/Drehmal-Team/installer/releases/download/v1.1.2/Drehmal.Installer.1.1.2.exe]` o su Modrinth su `[https://modrinth.com/modpack/drehmalmc]`. 
+Prima di installare la traduzione, assicurati di avere già installato e testato **Drehmal: Apotheosis** seguendo le istruzioni ufficiali. Trovi l'installer sul [sito ufficiale di Drehmal](https://github.com/Drehmal-Team/installer/releases/download/v1.1.2/Drehmal.Installer.1.1.2.exe) o su [Modrinth](https://modrinth.com/modpack/drehmalmc). 
 ### **NON AVVIARE ANCORA IL GIOCO**
 
-1. **Scarica il pacchetto della traduzione** (`[https://github.com/Snorriz/Drehmal-ITA/releases/tag/beta]`).
+1. **Scarica il pacchetto della traduzione** ([QUI](https://github.com/Snorriz/Drehmal-ITA/releases/tag/beta)).
 2. **Estrai l'archivio** per ottenere la cartella del pacchetto di traduzione.
 3. **Avvia l'installer:**
    * Lascia che avvenga la magia! Segui le istruzioni dell'installer.
