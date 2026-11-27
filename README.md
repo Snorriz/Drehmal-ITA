@@ -31,6 +31,7 @@ Prima di installare la traduzione, assicurati di avere già installato e testato
 2. **Estrai l'archivio** per ottenere la cartella del pacchetto di traduzione.
 3. **Avvia l'installer:**
    * Lascia che avvenga la magia! Segui le istruzioni dell'installer.
+4. **Installa Word Overflow** che puoi trovare [QUI](https://modrinth.com/mod/word-overflow)
 4. **Avvia il gioco** e verifica che i testi appaiano correttamente in italiano.
 
 > **Consiglio:** Se stai iniziando una nuova partita, puoi verificare il corretto funzionamento dal primo achievement che ottieni.
