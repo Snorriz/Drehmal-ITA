@@ -2,6 +2,9 @@
 
 > **Nota:** Questa traduzione è un progetto di Snorriz (@thefakesnorriz su Discord) non ufficiale e non è affiliata al *Primordial Team* o ai creatori originali di *Drehmal: Apotheosis*.
 
+
+**SUPER ANTEPRIMA!!!** Aspettati bug e traduzioni mancanti.
+
 Grazie per aver scaricato la traduzione italiana di **Drehmal: Apotheosis**, mappa avventura open-world realizzata dal *Primordial Team*. Questo file contiene le istruzioni per l'installazione, lo stato dei lavori e informazioni utili per chi gioca o vuole contribuire.
 
 ---
