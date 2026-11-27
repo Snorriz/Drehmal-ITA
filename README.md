@@ -13,7 +13,7 @@ Grazie per aver scaricato la traduzione italiana di **Drehmal: Apotheosis**, map
 
 * **Versione della mappa di riferimento:** `v2.2.2f` *(aggiorna se usi un'altra versione)*
 * **Versione della traduzione:** `v[1.0]`
-* **Stato attuale:** `[Completa]`
+* **Stato attuale:** `[Quasi Completa]`
 * **Autore / Team di traduzione:** `[Snorriz]`
 * **Ultimo aggiornamento:** `[23/11/2026]`
 
